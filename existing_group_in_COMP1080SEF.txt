@@ -1,0 +1,5 @@
+Rule:Each group has maxium of 2 members
+
+{
+    "Group1":["John", "Nina"]
+}

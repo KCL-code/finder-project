@@ -1,0 +1,46 @@
+{
+    "John": {
+        "GPA_goal": "Above 3",
+        "Phone_number": "73072382"
+    },
+    "Tom": {
+        "GPA_goal": "Above 3",
+        "Phone_number": "33073229"
+    },
+    "Ken": {
+        "GPA_goal": "in a range of 2-3",
+        "Phone_number": "38699143"
+    },
+    "George": {
+        "GPA_goal": "in a range of 2-3",
+        "Phone_number": "82690660"
+    },
+    "Holly": {
+        "GPA_goal": "Above 3",
+        "Phone_number": "91594043"
+    },
+    "ian": {
+        "GPA_goal": "in a range of 2-3",
+        "Phone_number": "33679842"
+    },
+    "Jade": {
+        "GPA_goal": "Above 3",
+        "Phone_number": "09019050"
+    },
+    "Kyle": {
+        "GPA_goal": "in a range of 2-3",
+        "Phone_number": "12344776"
+    },
+    "Laura": {
+        "GPA_goal": "in a range of 2-3",
+        "Phone_number": "30585719"
+    },
+    "Mason": {
+        "GPA_goal": "Above 3",
+        "Phone_number": "02276175"
+    },
+    "Nina": {
+        "GPA_goal": "in a range of 2-3",
+        "Phone_number": "92909872"
+    }
+}
